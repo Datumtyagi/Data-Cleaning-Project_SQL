@@ -1,6 +1,6 @@
 # Data-Cleaning-Project_SQL
 
----------------------**# Overview**--------------------------------------
+------------------------------------------------------------------------------------------**# Overview**--------------------------------------------------------------------------------------------------------------
 
 The CleaningProject standardizes and cleans data in the NashvilleHousing table. It performs operations such as date format standardization, address population, field normalization, duplicate removal, and unused column deletion.
 
