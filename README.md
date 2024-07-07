@@ -2,7 +2,7 @@
 
 -----------------------------------------------------**# Overview**--------------------------------------------------------------------------------------------------------------
 
-The Cleaning Project standardizes and cleans data in the NashvilleHousing table. It performs operations such as date format standardization, address population, field normalization, duplicate removal, and unused column deletion.
+The Cleaning Project standardizes and cleans data in the Nashville Housing table. It performs operations such as date format standardization, address population, field normalization, duplicate removal, and unused column deletion.
 
 Features:
 1. Standardize Date Format
